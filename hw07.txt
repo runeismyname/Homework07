@@ -1,3 +1,4 @@
+HELLO THERE
 this is homework07.txt
 a text file created in putty
 used to demonstrate the power of git
