@@ -1,4 +1,4 @@
-HELLO THERE
+HELLO THERE CSCI-C151
 this is homework07.txt
 a text file created in putty
 used to demonstrate the power of git
